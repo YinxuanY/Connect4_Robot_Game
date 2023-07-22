@@ -1,5 +1,5 @@
 # Control Robot to play Connect4 Game
-Player i/ii will select a column. The Robot will then move and grap the token to the column.
+Player i/ii will select a column. The Robot will then move and grap the token to the column based on sensor and user inputs.
 
 ## Prerequisite
 * CoppeliaSim (V-rep)
